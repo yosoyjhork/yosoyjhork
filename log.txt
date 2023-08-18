@@ -1,1 +1,2 @@
 0473. 📚 docs: write FAQ section
+0240. 🔧 refactor: remove redundant code blocks

@@ -2,3 +2,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0946. ✅ test: add unit test for quiz service
 0875. ✅ test: increase coverage on auth module
+0751. 🐛 fix: handle 500 error in quiz API

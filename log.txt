@@ -15,3 +15,4 @@
 0308. 🚀 perf: reduce image load time
 0689. 🎨 style: reformat files with black
 0103. 🔧 refactor: remove redundant code blocks
+0075. ✅ test: mock database connection in test suite

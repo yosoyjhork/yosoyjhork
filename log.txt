@@ -33,3 +33,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0831. 📚 docs: clarify environment setup
 0134. ✨ feat: implement quiz timer feature
+0128. ♻️ chore: rename env.example

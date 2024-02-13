@@ -45,3 +45,4 @@
 0486. ✨ feat: add export to CSV option
 0377. ✨ feat: add user authentication
 0812. 🔧 refactor: refactor quiz grading logic
+0152. ✨ feat: add user authentication

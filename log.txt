@@ -52,3 +52,4 @@
 0962. ✨ feat: create admin dashboard
 0786. ✨ feat: enable dark mode toggle
 0421. 🔧 refactor: split large controller into smaller functions
+0460. 📚 docs: write FAQ section

@@ -55,3 +55,4 @@
 0460. 📚 docs: write FAQ section
 0016. 🎨 style: apply consistent indentation
 0930. 🎨 style: apply consistent indentation
+0792. 🎨 style: standardize quote style

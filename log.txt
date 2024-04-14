@@ -58,3 +58,4 @@
 0792. 🎨 style: standardize quote style
 0109. 🚀 perf: lazy-load components
 0067. 🔧 refactor: remove redundant code blocks
+0696. 🔧 refactor: clean up auth middleware

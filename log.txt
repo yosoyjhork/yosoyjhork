@@ -61,3 +61,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0995. ✅ test: mock database connection in test suite
 0406. ✨ feat: add export to CSV option
+0710. 🐛 fix: fix broken CSS in mobile view

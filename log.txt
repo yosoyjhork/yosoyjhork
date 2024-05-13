@@ -64,3 +64,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0212. 🎨 style: standardize quote style
 0085. ✨ feat: support email verification
+0352. ✨ feat: add export to CSV option

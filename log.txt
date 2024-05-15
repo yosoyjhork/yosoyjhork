@@ -65,3 +65,4 @@
 0212. 🎨 style: standardize quote style
 0085. ✨ feat: support email verification
 0352. ✨ feat: add export to CSV option
+0209. ✨ feat: implement quiz timer feature

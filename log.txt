@@ -81,3 +81,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0523. ♻️ chore: bump dependencies
 0964. ♻️ chore: clean up unused files
+0135. ✅ test: test user registration edge cases

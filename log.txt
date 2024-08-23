@@ -85,3 +85,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0718. 🐛 fix: resolve issue with date parsing
 0749. ✨ feat: support email verification
+0019. ✨ feat: enable dark mode toggle

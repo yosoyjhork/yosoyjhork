@@ -87,3 +87,4 @@
 0749. ✨ feat: support email verification
 0019. ✨ feat: enable dark mode toggle
 0348. ✅ test: test user registration edge cases
+0674. 🔧 refactor: split large controller into smaller functions

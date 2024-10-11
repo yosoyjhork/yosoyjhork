@@ -92,3 +92,4 @@
 0594. 🎨 style: reformat files with black
 0249. ✅ test: increase coverage on auth module
 0904. ✨ feat: implement quiz timer feature
+0176. 🔧 refactor: remove redundant code blocks

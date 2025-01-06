@@ -113,3 +113,4 @@
 0850. ♻️ chore: rename env.example
 0301. 🎨 style: apply consistent indentation
 0617. ✨ feat: support email verification
+0233. 🚀 perf: lazy-load components

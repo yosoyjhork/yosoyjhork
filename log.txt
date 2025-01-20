@@ -117,3 +117,4 @@
 0178. ✨ feat: support email verification
 0805. ♻️ chore: add GitHub actions badge
 0809. ♻️ chore: rename env.example
+0057. 🚀 perf: optimize database query for quiz results

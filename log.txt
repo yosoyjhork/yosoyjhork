@@ -120,3 +120,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0254. 🚀 perf: reduce image load time
 0703. 🔧 refactor: clean up auth middleware
+0797. 📚 docs: add API usage examples

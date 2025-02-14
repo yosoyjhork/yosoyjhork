@@ -125,3 +125,4 @@
 0712. 🎨 style: apply consistent indentation
 0375. 🐛 fix: handle 500 error in quiz API
 0205. 📚 docs: update README with setup steps
+0950. 🎨 style: reformat files with black

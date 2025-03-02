@@ -127,3 +127,4 @@
 0205. 📚 docs: update README with setup steps
 0950. 🎨 style: reformat files with black
 0430. 🐛 fix: fix null pointer exception on login
+0834. ✅ test: increase coverage on auth module

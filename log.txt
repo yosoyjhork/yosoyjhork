@@ -129,3 +129,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0834. ✅ test: increase coverage on auth module
 0843. 📚 docs: document token refresh logic
+0289. 🐛 fix: resolve issue with date parsing

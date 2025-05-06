@@ -138,3 +138,4 @@
 0650. ✅ test: add unit test for quiz service
 0588. 🔧 refactor: organize models into subfolders
 0590. 🐛 fix: fix null pointer exception on login
+0146. 🎨 style: apply consistent indentation

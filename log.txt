@@ -144,3 +144,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0991. ♻️ chore: clean up unused files
 0918. ✨ feat: enable dark mode toggle
+0457. 🐛 fix: handle 500 error in quiz API

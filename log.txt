@@ -159,3 +159,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0602. 🔧 refactor: remove redundant code blocks
 0783. 🐛 fix: handle 500 error in quiz API
+0111. 📚 docs: update README with setup steps

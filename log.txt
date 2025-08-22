@@ -169,3 +169,4 @@
 0195. 📚 docs: clarify environment setup
 0066. 🔧 refactor: clean up auth middleware
 0196. ♻️ chore: bump dependencies
+0250. 📚 docs: update README with setup steps

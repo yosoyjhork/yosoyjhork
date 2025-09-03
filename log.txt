@@ -173,3 +173,4 @@
 0845. 🚀 perf: cache repeated calculations
 0638. 📚 docs: improve code comments in utils
 0270. ♻️ chore: rename env.example
+0690. 🚀 perf: lazy-load components

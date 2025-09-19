@@ -175,3 +175,4 @@
 0270. ♻️ chore: rename env.example
 0690. 🚀 perf: lazy-load components
 0031. 📚 docs: document token refresh logic
+0517. ✅ test: mock database connection in test suite

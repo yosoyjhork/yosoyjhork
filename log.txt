@@ -178,3 +178,4 @@
 0517. ✅ test: mock database connection in test suite
 0833. ✨ feat: add user authentication
 0631. ✨ feat: create admin dashboard
+0358. 🚀 perf: reduce image load time

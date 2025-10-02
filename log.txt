@@ -179,3 +179,4 @@
 0833. ✨ feat: add user authentication
 0631. ✨ feat: create admin dashboard
 0358. 🚀 perf: reduce image load time
+0968. 🎨 style: standardize quote style

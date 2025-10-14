@@ -183,3 +183,4 @@
 0462. ♻️ chore: update .gitignore
 0242. ♻️ chore: clean up unused files
 0603. 🐛 fix: fix broken CSS in mobile view
+0017. ✅ test: mock database connection in test suite

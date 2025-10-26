@@ -188,3 +188,4 @@
 0768. 🎨 style: remove trailing whitespace
 0446. 🎨 style: apply consistent indentation
 0676. 🐛 fix: prevent crash on empty input
+0411. ✅ test: add unit test for quiz service

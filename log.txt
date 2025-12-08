@@ -197,3 +197,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0321. 🔧 refactor: organize models into subfolders
 0061. ✨ feat: create admin dashboard
+0102. ✨ feat: support email verification
